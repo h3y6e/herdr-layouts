@@ -1,0 +1,3 @@
+{
+  "mod:zebra-editor": { "cmd-s": "zebra-editor.save" }
+}
